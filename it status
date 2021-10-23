@@ -1,0 +1,48 @@
+[33mcommit a86072174253552b4f2d06cc568ab5189ec7b3d0[m[33m ([m[1;36mHEAD -> [m[1;32mmaestro[m[33m, [m[1;31morigin/maestro[m[33m)[m
+Author: Aleksandr <a.dadaev@kokoc.tech>
+Date:   Sat Oct 23 16:05:58 2021 +0300
+
+    добавил файл upsstream
+
+[33mcommit fdd2e3136dd4b006e0a985080719615f039f81f1[m[33m ([m[1;33mtag: task_04[m[33m, [m[1;33mtag: task_03[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 65e8fa7 da1f41e
+Author: Aleksandr <a.dadaev@kokoc.tech>
+Date:   Sun Oct 17 20:21:48 2021 +0300
+
+    Конфликт с соц. сетями, оставил оба варианта
+
+[33mcommit 65e8fa7bb16a820120b397832712dbcd6dce044d[m
+Author: Aleksandr <a.dadaev@kokoc.tech>
+Date:   Sun Oct 17 20:01:25 2021 +0300
+
+    добавили Instagram
+
+[33mcommit da1f41eb31dc7059fa48ff17aa93c51a76da9607[m[33m ([m[1;32mfeature-add-4[m[33m)[m
+Author: Aleksandr <a.dadaev@kokoc.tech>
+Date:   Sun Oct 17 19:58:57 2021 +0300
+
+    добавление ссылки ВК
+
+[33mcommit 65e2d936a653131515d983bee97e09d1fd70b48a[m[33m ([m[1;33mtag: task_02[m[33m)[m
+Author: Aleksandr <a.dadaev@kokoc.tech>
+Date:   Sun Oct 17 19:52:41 2021 +0300
+
+    Удаление всех веток и мерж
+
+[33mcommit f763cc8966fc16573be1c0cf12c829b926260205[m[33m ([m[1;33mtag: task_01[m[33m)[m
+Author: Aleksandr <a.dadaev@kokoc.tech>
+Date:   Sun Oct 17 19:09:06 2021 +0300
+
+    добавлен header в html
+
+[33mcommit 9617eb38bf18fae2a18798faaddd439a38653506[m
+Author: Aleksandr <a.dadaev@kokoc.tech>
+Date:   Sun Oct 17 18:36:52 2021 +0300
+
+    добавилии файд header.html
+
+[33mcommit 5022e1ffe077c1333e84ad940d57bed3053b3515[m[33m ([m[1;33mtag: task_00[m[33m)[m
+Author: Aleksandr <a.dadaev@kokoc.tech>
+Date:   Sun Oct 17 18:23:27 2021 +0300
+
+    init
